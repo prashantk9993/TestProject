@@ -1,0 +1,2 @@
+  interface TempInterface1 {
+}
